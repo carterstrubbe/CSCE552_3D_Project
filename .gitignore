@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/Manifest_NonUFSFiles_Win64.txt
+Windows.zip
+Windows/CSCE552_3D_Project/Content/Paks/CSCE552_3D_Project-Windows.ucas
